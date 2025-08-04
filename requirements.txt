@@ -1,5 +1,10 @@
+openai-agents
+openai-agents[viz]
 openai
 numpy
 matplotlib
 jupyter 
 notebook
+streamlit
+# duckduckgo-search deprecated, use ddgs instead
+ddgs
